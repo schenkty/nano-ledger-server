@@ -1,0 +1,20 @@
+{
+  "name": "ledger-server",
+  "version": "1.0.0",
+  "description": "BrainBlocks Ledger App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BrainBlocks",
+  "license": "",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "grumbler-scripts": "^2.0.69",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
